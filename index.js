@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var fs = require('fs');
 var formidable = require('formidable');
 var git = require('./lib/git')(__dirname);
