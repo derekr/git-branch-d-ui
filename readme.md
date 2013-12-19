@@ -20,6 +20,9 @@ and click the "Delete" button. This will return a text response of:
 git branch -D [selected branches]
 ```
 
+![List](https://raw.github.com/derekr/git-branch-d-ui/master/doc/list.png)
+![List](https://raw.github.com/derekr/git-branch-d-ui/master/doc/command.png)
+
 ## Future
 
 Currently this is the most basic implementation to get the job done, but I think 
