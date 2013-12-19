@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/derekr/git-branch-d-ui/issues"
   },
-  "bin": "git-branch-d-ui",
+  "bin": { "git-branch-d-ui": "./index.js" },
   "dependencies": {
     "lodash": "~2.4.1",
     "hyperglue": "~1.3.0",
