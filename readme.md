@@ -23,7 +23,7 @@ git branch -D [selected branches]
 ## Install
 
 ```
-npm install git-branch-d-ui
+npm install -g git-branch-d-ui
 ```
 
 ![List](https://raw.github.com/derekr/git-branch-d-ui/master/doc/list.png)
