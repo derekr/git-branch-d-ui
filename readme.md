@@ -20,6 +20,12 @@ and click the "Delete" button. This will return a text response of:
 git branch -D [selected branches]
 ```
 
+## Install
+
+```
+npm install git-branch-d-ui
+```
+
 ![List](https://raw.github.com/derekr/git-branch-d-ui/master/doc/list.png)
 ![List](https://raw.github.com/derekr/git-branch-d-ui/master/doc/command.png)
 
